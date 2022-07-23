@@ -3,8 +3,20 @@
     <nav>
       <ul>
         <li>
-          <nuxt-link to="/xxx">
-            xxx
+          <nuxt-link to="/">
+            TOP
+          </nuxt-link>
+          <nuxt-link to="/">
+            Resume
+          </nuxt-link>
+          <nuxt-link to="/">
+            Experience
+          </nuxt-link>
+          <nuxt-link to="/">
+            Skills
+          </nuxt-link>
+          <nuxt-link to="/">
+            About me
           </nuxt-link>
         </li>
       </ul>
@@ -19,5 +31,8 @@ export default {
 </script>
 
 <style>
+nav {
+
+}
 
 </style>

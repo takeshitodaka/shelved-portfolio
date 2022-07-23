@@ -1,7 +1,7 @@
 <template>
   <div>
     <header>
-      <h1>header</h1>
+      <h1>Welcome to Takeshi's Portfolilo</h1>
       <HeaderNav />
     </header>
   </div>
@@ -18,8 +18,8 @@ export default {
 
 <style scoped>
     header{
-        color: #fff;
+        color: rgb(255, 255, 255);
         padding: 20px;
-        background-color: #527b8e;
+        background-color: #3100e1;
     }
 </style>
