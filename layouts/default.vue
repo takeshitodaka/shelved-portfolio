@@ -19,10 +19,10 @@ export default {
 
 }
 </script>
-<style >
+<style scopped>
     main {
         min-height: 600px;
-        background-color: rgb(255, 0, 0);
+        background-color: rgb(203, 199, 255);
         text-align: center;
         padding: 30px;
     }
