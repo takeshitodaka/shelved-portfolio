@@ -44,5 +44,8 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+  publicRuntimeConfig: {
+    SLACK_URL: process.env.SLACK_URL || 'https://hooks.slack.com/services/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'
   }
 }
