@@ -16,7 +16,7 @@
             Skills
           </nuxt-link>
           <nuxt-link to="/">
-            About me
+            About
           </nuxt-link>
         </li>
       </ul>
