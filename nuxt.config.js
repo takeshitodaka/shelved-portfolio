@@ -21,6 +21,7 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '@/assets/css/common.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -46,6 +47,6 @@ export default {
   build: {
   },
   publicRuntimeConfig: {
-    SLACK_URL: process.env.SLACK_URL || 'https://hooks.slack.com/services/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'
+    SLACK_URL: 'https://hooks.slack.com/services/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'
   }
 }

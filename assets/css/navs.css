@@ -1,0 +1,17 @@
+header{
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    background-color: #A8DADC;
+    
+}
+header h1{
+    font-size: 100px;
+}
+
+
+footer{
+    font-size: 30px;
+      color: rgb(255, 255, 255);
+      padding: 20px;
+      background-color: #A8DADC;
+  }
