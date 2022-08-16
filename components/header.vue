@@ -15,11 +15,6 @@ export default {
   }
 }
 </script>
-
 <style scoped>
-    header{
-        color: rgb(255, 255, 255);
-        padding: 20px;
-        background-color: #3100e1;
-    }
+  @import "~/assets/css/navs.css";
 </style>

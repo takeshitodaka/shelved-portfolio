@@ -1,7 +1,7 @@
 <template>
   <div>
     <footer>
-      Contact me!
+      <h1>Contact me!</h1>
       <FooterNav />
     </footer>
   </div>
@@ -16,10 +16,5 @@ export default {
 }
 </script>
 <style scoped>
-    footer{
-      font-size: 30px;
-        color: rgb(255, 255, 255);
-        padding: 20px;
-        background-color: #3100e1;
-    }
+@import "~/assets/css/navs.css";
 </style>

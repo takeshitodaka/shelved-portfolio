@@ -2,7 +2,7 @@
   <div>
     <nav>
       <ul>
-        <li>
+        <li class="header-links">
           <nuxt-link to="/">
             TOP
           </nuxt-link>
@@ -29,10 +29,11 @@ export default {
   components: {}
 }
 </script>
-
-<style>
-nav {
-
+<style scoped>
+.header-links a{
+  font-size: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 </style>
